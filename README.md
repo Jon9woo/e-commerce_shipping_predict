@@ -15,15 +15,15 @@
 - **웹 프레임워크**: FastAPI (모델 배포를 위한 선택사항)
 
 ## 프로젝트 구조
-.
-├── data
-│ ├── Train.csv
-│ └── archive.zip
-├── notebook
-│ ├── 01-dataEDA.ipynb
-│ ├── 02-modelSearch.ipynb
-│ ├── 03-hyperparameterTuning.ipynb
-│ └── logs.log
-└── src
-├── preprocessing.py
-└── init.py
+.   
+├── data   
+│ ├── Train.csv   
+│ └── archive.zip   
+├── notebook   
+│ ├── 01-dataEDA.ipynb   
+│ ├── 02-modelSearch.ipynb   
+│ ├── 03-hyperparameterTuning.ipynb   
+│ └── logs.log   
+└── src   
+├── preprocessing.py   
+└── init.py   
