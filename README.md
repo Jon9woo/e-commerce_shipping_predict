@@ -31,11 +31,30 @@
 
 ## 프로젝트 진행
 1. 데이터 EDA
+    - 데이터 불러오기
+    - 데이터 탐색
+    - 데이터 시각화
 2. 데이터 전처리(preprocessing)
+    - 결측치 처리
+    - 이상치 처리
+    - 데이터 분할
 3. 피쳐 엔지니어링(feature engineering)
+    - 데이터 범주화(One-hot Encoding, Label Encoding)
+    - 데이터 스케일링(StandardScaler, MinMaxScaler)
 4. 모델 검색(model search)
+    - PyCaret을 사용한 AutoML
+    - 모델 성능 비교
+    - 최적 모델 선택
+    ```python
+    from pycaret.classification import *
+    setup(data, target='target')
+    compare_models()
+    ```
 5. 하이퍼파라미터 튜닝(hyperparameter tuning)
+    - GridSearchCV, RandomizedSearchCV
 6. 모델 성능 평가 및 비교
+    - Confusion Matrix
+    - ROC Curve
 7. 모델 해석(Feature Importance, SHAP)
-7. 모델 저장 및 배포
+8. 모델 저장 및 배포
 
