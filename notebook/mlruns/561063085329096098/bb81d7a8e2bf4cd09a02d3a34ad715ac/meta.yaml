@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jongwoom1pro/Coding/%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3/e-commerce_shipping/notebook/mlruns/561063085329096098/bb81d7a8e2bf4cd09a02d3a34ad715ac/artifacts
+end_time: 1721719515746
+entry_point_name: ''
+experiment_id: '561063085329096098'
+lifecycle_stage: active
+run_id: bb81d7a8e2bf4cd09a02d3a34ad715ac
+run_name: Light Gradient Boosting Machine
+run_uuid: bb81d7a8e2bf4cd09a02d3a34ad715ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721719515704
+status: 3
+tags: []
+user_id: jongwoom1pro

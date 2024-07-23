@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jongwoom1pro/Coding/%E1%84%80%E1%85%A2%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%8C%E1%85%A6%E1%86%A8%E1%84%90%E1%85%B3/e-commerce_shipping/notebook/mlruns/561063085329096098/52ec6de3cbc348409bd2079d7c15769b/artifacts
+end_time: 1721633480823
+entry_point_name: ''
+experiment_id: '561063085329096098'
+lifecycle_stage: active
+run_id: 52ec6de3cbc348409bd2079d7c15769b
+run_name: pycaret_model
+run_uuid: 52ec6de3cbc348409bd2079d7c15769b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721633478476
+status: 4
+tags: []
+user_id: jongwoom1pro

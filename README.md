@@ -27,3 +27,15 @@
 └── src   
 ├── preprocessing.py   
 └── init.py   
+
+
+## 프로젝트 진행
+1. 데이터 EDA
+2. 데이터 전처리(preprocessing)
+3. 피쳐 엔지니어링(feature engineering)
+4. 모델 검색(model search)
+5. 하이퍼파라미터 튜닝(hyperparameter tuning)
+6. 모델 성능 평가 및 비교
+7. 모델 해석(Feature Importance, SHAP)
+7. 모델 저장 및 배포
+
